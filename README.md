@@ -1,7 +1,7 @@
 # Estilos y componentes básicos para Figma y Jekyll
 Una base para wireframes, diseño y desarrollo. Incluye estilos tipográficos, colores neutros, botones, enlaces, imágenes en diferentes proporciones, íconos, y algunos componentes.
 
-[fluorescente.design/estilos-y-componentes-básicos](https://fluorescente.design/estilos-y-componentes-básicos){:target="_blank"}
+[**fluorescente.design/estilos-y-componentes-básicos**](https://fluorescente.design/estilos-y-componentes-básicos)
 
 ## Para diseñar
 Archivo de Figma con estilos y componentes listos para usar como base en wireframes y diseños. Adaptado para celulares, tabletas y escritorio.
@@ -21,8 +21,8 @@ Estilos y componentes modificables tanto en Figma como en la carpeta de desarrol
 ### Notas
 - **Figma:** comparto el archivo, no la librería (uso la versión gratuita).
 - **UIKit:** lo utilizo porque aún no desarrollo en JavaScript. Es fácil de usar, pero puede generar un parpadeo de contenido sin estilos (FOUC) y afectar ligeramente el rendimiento.
-- **Íconos:** forman parte de una fuente personalizada hecha con [**Icomoon**](https://icomoon.io/){:target="_blank"}. También están disponibles como archivos .svg en la carpeta icons.
-- **Escala tipográfica:** definida con una proporción de 1.125, ver   [**Modularscale**](https://www.modularscale.com/?16&px&1.125){:target="_blank"}
+- **Íconos:** forman parte de una fuente personalizada hecha con [**Icomoon**](https://icomoon.io/). También están disponibles como archivos .svg en la carpeta icons.
+- **Escala tipográfica:** definida con una proporción de 1.125, ver   [**Modularscale**](https://www.modularscale.com/?16&px&1.125)
 - **Git y GitHub:** mi conocimiento es limitado. Aunque comparto el enlace al repositorio, aún estoy aprendiendo a gestionar proyectos colaborativos.
-- **Proyecto previo:** el sitio [**fluorescente.design**](https://www.fluorescente.design){:target="_blank"} lo diseñé y desarrollé antes de este proyecto, y contiene errores relativos a consideraciones que no tuve en cuenta en ese momento.
+- **Proyecto previo:** el sitio [**fluorescente.design**](https://www.fluorescente.design) lo diseñé y desarrollé antes de este proyecto, y contiene errores relativos a consideraciones que no tuve en cuenta en ese momento.
 
