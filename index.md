@@ -1,6 +1,6 @@
 ---
 # --- Identificación ---
-layout: basic-styles-and-components-index
+layout: basic-index
 title: "Estilos y componentes básicos para Figma y Jekyll"
 name: "Inicio"
 heading: "Estilos y componentes básicos para Figma y Jekyll"
@@ -12,13 +12,13 @@ author: "fluorescente.design"
 date: 2026-02-09
 tags: ["Figma", "Jekyll", "wireframes", "componentes", "CSS", "responsive"]
 keywords: "Figma estilos, Jekyll componentes, wireframes responsive, diseño desarrollo"
-image: "assets/images/basic-styles-and-components/estilos-y-componentes-basicos-card.png"
+image: "assets/images/basic/estilos-y-componentes-basicos-card.png"
 
 # --- Hero / Imagen principal ---
-hero-image-xs: "/assets/images/basic-styles-and-components/hero-image-xs-lg.svg"
-hero-image-sm: "/assets/images/basic-styles-and-components/hero-image-sm.svg"
-hero-image-lg: "/assets/images/basic-styles-and-components/hero-image-xs-lg.svg"
-hero-image-src: "/assets/images/basic-styles-and-components/hero-image-xs-lg.svg"
+hero-image-xs: "/assets/images/basic/hero-image-xs-lg.svg"
+hero-image-sm: "/assets/images/basic/hero-image-sm.svg"
+hero-image-lg: "/assets/images/basic/hero-image-xs-lg.svg"
+hero-image-src: "/assets/images/basic/hero-image-xs-lg.svg"
 hero-image-alt: "Muestra de estilos tipográficos, colores, botones, una tarjeta, una imágen de proporción 3:2, y un paginador"
 
 # --- Footer ---
