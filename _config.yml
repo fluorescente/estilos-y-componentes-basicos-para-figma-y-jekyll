@@ -21,7 +21,7 @@
 title: Estilos básicos y componentes
 email: hola@fluorescente.design
 description: Base de estilos y componentes para Figma y Jekyll. Tipografía, colores, botones, imágenes responsive y componentes listos para wireframes y desarrollo.
-url: "https://chicoesqueleto.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "/estilos-y-componentes" # the base hostname & protocol for your site, e.g. http://example.com
 author-url: "https://fluorescente.design"
 author: Fluorescente
 creator: Fluorescente
@@ -31,7 +31,7 @@ ko-fi_url: "https://ko-fi.com/fluorescente"
 lang: es
 locale: es_CO
 logo: assets/images/logo.png
-image: "assets/images/estilos-y-componentes-basicos-card.png"
+image: "assets/images/basic-styles-and-components/estilos-y-componentes-basicos-card.png"
 
 # Build settings
 # theme: minima
@@ -46,15 +46,15 @@ sass:
   sourcemap: never 
 
 collections:
-  typography-heading-styles:
+  basic-styles-and-components-typography-heading-styles:
     output: true
-  typography-paragraph-styles:
+  basic-styles-and-components-typography-paragraph-styles:
     output: true
-  typography-bold-paragraph-styles:
+  basic-styles-and-components-typography-bold-paragraph-styles:
     output: true
-  placeholder-posts:
+  basic-styles-and-components-placeholder-posts:
     output: true               
-  styles-and-components:
+  basic-styles-and-components:
     output: true        
 
 # Exclude from processing.
